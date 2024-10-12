@@ -11,7 +11,7 @@ no = 'None'
 if not no:
     print("Executed.......")
 
-#But if you remove the not, the expression will yield a True value. Therefore the cold will execute.
+#But if you remove the not, the expression will yield a True value. Therefore the code will execute.
 
 
 if no:
